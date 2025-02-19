@@ -1,0 +1,5 @@
+@media (max-width: 1540px){
+    .tasks-category_menu{
+        max-height: 64vh !important;
+    }
+}

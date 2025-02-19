@@ -1,0 +1,12 @@
+.project_name {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 133%;
+    margin-bottom: 10px;
+    display: flex;
+}
+.project_desc {
+    font-size: 12px;
+    line-height: 133%;
+    color: #5a5a5a;
+}
